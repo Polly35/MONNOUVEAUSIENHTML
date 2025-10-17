@@ -12,3 +12,11 @@ h1 {
   color: #4a2996;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
     sans-serif;
+
+li {
+  text-transform: uppercase;
+  letter-spacing: normal;
+  text-align: right;
+  color: white;
+  font-family: 'calibri';
+}
