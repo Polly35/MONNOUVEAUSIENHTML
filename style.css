@@ -1,0 +1,14 @@
+body {
+  background-color: blueviolet; */
+  background: url(./assets/img/Espace_12.jpg) center/cover;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 2.5rem;
+  1rem = 16px | h1 = 16px */
+  color: #4a2996;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
+    sans-serif;
