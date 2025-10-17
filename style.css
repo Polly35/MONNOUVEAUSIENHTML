@@ -1,22 +1,22 @@
 body {
-  background-color: blueviolet; */
-  background: url(./assets/img/Espace_12.jpg) center/cover;
+    background-color: rgb(235, 171, 203);
 }
-
 h1 {
-  text-transform: uppercase;
-  letter-spacing: normal;
-  text-align: center;
-  font-size: 2.5rem;
-  1rem = 16px | h1 = 16px */
-  color: #4a2996;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
-    sans-serif;
-
+    text-transform:uppercase;
+    text-align: center;
+    color: white;
+    font-size: 2,5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 li {
-  text-transform: uppercase;
-  letter-spacing: normal;
-  text-align: right;
-  color: white;
-  font-family: 'calibri';
+    text-align: right;
+    color: white;
+}
+nav {
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+body {
+    background-image: url(asset/Espace_7.jpg) ; background-repeat: no-repeat; background-size: cover;
 }
